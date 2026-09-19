@@ -1,6 +1,7 @@
 📊 Call Centre Analytics Dashboard
 
 An interactive Call Centre Analytics Dashboard built in Microsoft Excel to analyze call-center performance, agent productivity, call handling efficiency, and sales conversion.
+
 Tables of Contents
 Project Objective
 Tools & Technologies
@@ -15,9 +16,7 @@ Skills Demonstrated
 Author and Contact
 
 🎯 Project Objective
-
 The objective of this project is to analyze call-center data and create an interactive dashboard that provides a clear view of:
-
 * Overall call-center performance
 * Agent productivity
 * Call handling efficiency
@@ -26,7 +25,6 @@ The objective of this project is to analyze call-center data and create an inter
 * Performance trends and comparisons
 
 🛠️ Tools & Technologies
-
 * Microsoft Excel
 * Excel Pivot Tables
 * Pivot Charts
@@ -110,7 +108,6 @@ Created visual KPIs and charts to make performance monitoring easier for supervi
 🖼️ Dashboard Preview
  
 💡 Business Value
-
 This dashboard converts raw call-center data into an easy-to-understand visual report.
 It can help management:
 * Monitor agent performance
@@ -122,7 +119,6 @@ It can help management:
 * Support data-driven decision-making
 
 🚀 How to Use
-
 1. Download or clone this repository.
 2. Open call centre Dashboard.xlsx in Microsoft Excel.
 3. Explore the dashboard and interactive filters.
@@ -130,7 +126,6 @@ It can help management:
 5. Use the dataset to reproduce or extend the analysis.
 
 📂 Repository Structure
-
 Call-Centre-Analytic-Dashboard/
 │
 ├── Dataset csv.csv
@@ -139,7 +134,6 @@ Call-Centre-Analytic-Dashboard/
 └── README.md
 
 🔍 Skills Demonstrated
-
 * Data Cleaning
 * Data Analysis
 * Excel
@@ -152,9 +146,9 @@ Call-Centre-Analytic-Dashboard/
 * Analytical Thinking
 
 👨‍💻 Author and Contact
-
 Samyak Bhagat
 Email: samyakbhagat03@gmail.com
 Linkedin
 GitHub
+
 
