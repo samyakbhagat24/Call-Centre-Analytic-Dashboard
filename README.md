@@ -146,9 +146,13 @@ Call-Centre-Analytic-Dashboard/
 * Analytical Thinking
 
 👨‍💻 Author and Contact
+
 Samyak Bhagat
+
 Email: samyakbhagat03@gmail.com
+
 Linkedin
+
 GitHub
 
 
