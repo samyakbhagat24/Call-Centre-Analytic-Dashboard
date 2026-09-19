@@ -1,87 +1,85 @@
-📊 Call Centre Analytics Dashboard
+
+# 🧾 Call Centre Analytics Dashboard
+
+_ Designed an interactive Excel dashboard using pivot tables, slicers, and charts to analyze call volume, handling time, and agent performance.
+
+
+---
+
+## 📌 Table of Contents
+- <a href="# project-objective">Project Objective</a>
+- <a href="#tools & technologies"> Tools & Technologies </a>
+
+- <a href="# project-files"> Project Files</a>
+- <a href="# dashboard-features"> Dashboard Features</a>
+- <a href="# interactive-analysis"> Interactive Analysis</a>
+- <a href="# project-workflow"> Project Workflow</a>
+- <a href="# key-analysis-areas"> Key Analysis Areas</a>
+- <a href="# dashboard-preview"> Dashboard Preview</a>
+- <a href="# business-value"> Business Value</a>
+- <a href="# how-to-use"> How to Use</a>
+- <a href="# repository-structure"> Repository Structure</a>
+- <a href="# skills-demonstrated"> Skills Demonstrated</a>
+- <a href="#author-contact"> Author & Contact</a>
+
+---
+<h2><a class="anchor" id="Project-objective"></a>Project Objective</h2>
 
 An interactive Call Centre Analytics Dashboard built in Microsoft Excel to analyze call-center performance, agent productivity, call handling efficiency, and sales conversion.
 
-##Tables of Contents
 
-Project Objective
+---
+<h2><a class="anchor" id="Tools & Technologies"></a>tools & Tecnologies</h2>
 
-Tools & Technologies
+- Microsoft Excel
+- Excel Pivot Tables
+- Pivot Charts
+- Excel Formulas
+- Data Cleaning & Transformation
+- Data Analysis
+- Data Visualization
+- Interactive Dashboard
+---
+<h2><a class="anchor" id="project-files"></a>Project Files</h2>
 
-Project Files
+-  Dataset csv.csv	Raw call-center dataset used for analysis
+- call centre Dashboard.xlsx	Complete Excel dashboard and analysis
+- call centre dashboard.png	Dashboard preview
+- README.md	Project documentation 
+---
 
-Dashboard Features
-
-Project Workflow
-
-Key Analysis Areas
-
-Dashboard Preview
-
-How to Use
-
-Repository Structure
-
-Skills Demonstrated
-
-Author and Contact
-
-🎯 Project Objective
-The objective of this project is to analyze call-center data and create an interactive dashboard that provides a clear view of:
-* Overall call-center performance
-* Agent productivity
-* Call handling efficiency
-* Sales and conversion performance
-* Customer call activity
-* Performance trends and comparisons
-
-🛠️ Tools & Technologies
-* Microsoft Excel
-* Excel Pivot Tables
-* Pivot Charts
-* Excel Formulas
-* Data Cleaning & Transformation
-* Data Analysis
-* Data Visualization
-* Interactive Dashboard
-
-📁 Project Files
-
-File	Description
-Dataset csv.csv	Raw call-center dataset used for analysis
-call centre Dashboard.xlsx	Complete Excel dashboard and analysis
-call centre dashboard.png	Dashboard preview
-README.md	Project documentation
-
-📊 Dashboard Features
+<h2><a class="anchor" id="dashboard-features"></a>Dashboard Features</h2>
 
 Key Performance Indicators
-
 The dashboard provides important performance metrics such as:
+- Total Calls
+- Total Sales
+- Call Duration
+- Average Call Duration
+- Agent Performance
+- Sales Conversion
+- Call Volume
 
-* Total Calls
-* Total Sales
-* Call Duration
-* Average Call Duration
-* Agent Performance
-* Sales Conversion
-* Call Volume
-
-Interactive Analysis
+---
+<h2><a class="anchor" id="intercative-analysis"></a>Interactive Analysis</h2>
 
 The dashboard allows users to analyze call-center performance through interactive charts and filters.
 
 It can be used to compare:
 
-* Individual agent performance
-* Call volumes
-* Sales performance
-* Call duration
-* Conversion rates
-* Overall operational performance
+- Individual agent performance
+- Call volumes
+- Sales performance
+- Call duration
+- Conversion rates
+- Overall operational performance
 
-🔄 Project Workflow
 
+
+---
+<h2><a class="anchor" id="project-workflow"></a>Project Workfloe</h2>
+
+```
 Raw Dataset
      ↓
 Data Cleaning
@@ -97,46 +95,53 @@ Charts & Visualizations
 Interactive Dashboard
      ↓
 Business Insights
+```
 
-📈 Key Analysis Areas
+---
+<h2><a class="anchor" id="key-analysis-area"></a>Key Analysis Area</h2>
 
 1. Agent Performance
-
 Analyzed individual agent activity to understand differences in productivity and sales performance.
 
 2. Call Handling
-
 Examined call volume and duration to understand call-center workload and handling efficiency.
 
 3. Sales Performance
-
 Analyzed sales activity and conversion-related metrics to understand sales outcomes.
 
 4. Performance Monitoring
-
 Created visual KPIs and charts to make performance monitoring easier for supervisors and managers.
 
-🖼️ Dashboard Preview
+---
+<h2><a class="anchor" id="dashboard-preview-eda"></a>Dashboard Preview</h2>
+
  
-💡 Business Value
+
+---
+<h2><a class="anchor" id="business-value"></a>Business Value</h2>
+
 This dashboard converts raw call-center data into an easy-to-understand visual report.
 It can help management:
-* Monitor agent performance
-* Identify performance gaps
-* Track call-center workload
-* Analyze sales activity
-* Compare agents
-* Understand operational trends
-* Support data-driven decision-making
+- Monitor agent performance
+- Identify performance gaps
+- Track call-center workload
+- Analyze sales activity
+- Compare agents
+- Understand operational trends
+- Support data-driven decision-making
 
-🚀 How to Use
-1. Download or clone this repository.
-2. Open call centre Dashboard.xlsx in Microsoft Excel.
-3. Explore the dashboard and interactive filters.
-4. Review the KPIs and charts.
-5. Use the dataset to reproduce or extend the analysis.
+---
+<h2><a class="anchor" id="how-to-use"></a>How to Use</h2>
 
-📂 Repository Structure
+- Download or clone this repository.
+- Open call centre Dashboard.xlsx in Microsoft Excel.
+- Explore the dashboard and interactive filters.
+- Review the KPIs and charts.
+- Use the dataset to reproduce or extend the analysis.
+
+---
+<h2><a class="anchor" id="repository-structure"></a>Repository Structure</h2>
+
 Call-Centre-Analytic-Dashboard/
 │
 ├── Dataset csv.csv
@@ -144,26 +149,27 @@ Call-Centre-Analytic-Dashboard/
 ├── call centre dashboard.png
 └── README.md
 
-🔍 Skills Demonstrated
-* Data Cleaning
-* Data Analysis
-* Excel
-* Pivot Tables
-* Data Visualization
-* Dashboard Development
-* KPI Analysis
-* Business Intelligence
-* Business Performance Analysis
-* Analytical Thinking
+---
+<h2><a class="anchor" id="skills-demonstrated"></a>Skills Demonstrated</h2>
 
-👨‍💻 Author and Contact
+- Data Cleaning
+- Data Analysis
+- Excel
+- Pivot Tables
+- Data Visualization
+- Dashboard Development
+- KPI Analysis
+- Business Intelligence
+- Business Performance Analysis
+- Analytical Thinking
 
-Samyak Bhagat
 
-Email: samyakbhagat03@gmail.com
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-Linkedin
-
-GitHub
-
+**Samyak Bhagat**  
+Data Analyst  
+📧 Email: techclasses0810@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/samyakbhagat/)  
+🔗 [Github](https://www.github.com/samyakbhagat24/)
 
