@@ -177,7 +177,7 @@ Call-Centre-Analytic-Dashboard/
 
 **Samyak Bhagat**  
 Data Analyst  
-📧 Email: techclasses0810@gmail.com  
+📧 Email: samyakbhagat03@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/samyakbhagat/)  
 🔗 [Github](https://www.github.com/samyakbhagat24/)
 
