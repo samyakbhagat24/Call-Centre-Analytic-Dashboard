@@ -1,7 +1,7 @@
 
 # 🧾 Call Centre Analytics Dashboard
 
-_ Designed an interactive Excel dashboard using pivot tables, slicers, and charts to analyze call volume, handling time, and agent performance.
+Designed an interactive Excel dashboard using pivot tables, slicers, and charts to analyze call volume, handling time, and agent performance.
 
 
 ---
