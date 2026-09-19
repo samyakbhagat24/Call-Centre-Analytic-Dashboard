@@ -113,7 +113,7 @@ Analyzed sales activity and conversion-related metrics to understand sales outco
 Created visual KPIs and charts to make performance monitoring easier for supervisors and managers.
 
 ---
-<h2><a class="anchor" id="dashboard-preview-eda"></a>Dashboard Preview</h2>
+<h2><a class="anchor" id="dashboard-preview"></a>Dashboard Preview</h2>
 
  
 
