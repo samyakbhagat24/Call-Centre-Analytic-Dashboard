@@ -1,25 +1,40 @@
 📊 Call Centre Analytics Dashboard
+
 An interactive Call Centre Analytics Dashboard built in Microsoft Excel to analyze call-center performance, agent productivity, call handling efficiency, and sales conversion.
-The dashboard transforms raw call-center data into meaningful KPIs and visual insights that can help supervisors and managers monitor performance and identify improvement areas.
+Tables of Contents
+Project Objective
+Tools & Technologies
+Project Files
+Dashboard Features
+Project Workflow
+Key Analysis Areas
+Dashboard Preview
+How to Use
+Repository Structure
+Skills Demonstrated
+Author and Contact
 
 🎯 Project Objective
+
 The objective of this project is to analyze call-center data and create an interactive dashboard that provides a clear view of:
-- Overall call-center performance
-- Agent productivity
-- Call handling efficiency
-- Sales and conversion performance
-- Customer call activity
-- Performance trends and comparisons
+
+* Overall call-center performance
+* Agent productivity
+* Call handling efficiency
+* Sales and conversion performance
+* Customer call activity
+* Performance trends and comparisons
 
 🛠️ Tools & Technologies
-- Microsoft Excel
-- Excel Pivot Tables
-- Pivot Charts
-- Excel Formulas
-- Data Cleaning & Transformation
-- Data Analysis
-- Data Visualization
-- Interactive Dashboard
+
+* Microsoft Excel
+* Excel Pivot Tables
+* Pivot Charts
+* Excel Formulas
+* Data Cleaning & Transformation
+* Data Analysis
+* Data Visualization
+* Interactive Dashboard
 
 📁 Project Files
 
@@ -35,29 +50,29 @@ Key Performance Indicators
 
 The dashboard provides important performance metrics such as:
 
-- Total Calls
-- Total Sales
-- Call Duration
-- Average Call Duration
-- Agent Performance
-- Sales Conversion
-- Call Volume
-  
+* Total Calls
+* Total Sales
+* Call Duration
+* Average Call Duration
+* Agent Performance
+* Sales Conversion
+* Call Volume
+
 Interactive Analysis
 
 The dashboard allows users to analyze call-center performance through interactive charts and filters.
 
 It can be used to compare:
 
-- Individual agent performance
-- Call volumes
-- Sales performance
-- Call duration
-- Conversion rates
-- Overall operational performance
-
+* Individual agent performance
+* Call volumes
+* Sales performance
+* Call duration
+* Conversion rates
+* Overall operational performance
 
 🔄 Project Workflow
+
 Raw Dataset
      ↓
 Data Cleaning
@@ -73,7 +88,6 @@ Charts & Visualizations
 Interactive Dashboard
      ↓
 Business Insights
-
 
 📈 Key Analysis Areas
 
@@ -94,21 +108,21 @@ Analyzed sales activity and conversion-related metrics to understand sales outco
 Created visual KPIs and charts to make performance monitoring easier for supervisors and managers.
 
 🖼️ Dashboard Preview
-
+ 
 💡 Business Value
 
 This dashboard converts raw call-center data into an easy-to-understand visual report.
-
 It can help management:
-- Monitor agent performance
-- Identify performance gaps
-- Track call-center workload
-- Analyze sales activity
-- Compare agents
-- Understand operational trends
-- Support data-driven decision-making
+* Monitor agent performance
+* Identify performance gaps
+* Track call-center workload
+* Analyze sales activity
+* Compare agents
+* Understand operational trends
+* Support data-driven decision-making
 
 🚀 How to Use
+
 1. Download or clone this repository.
 2. Open call centre Dashboard.xlsx in Microsoft Excel.
 3. Explore the dashboard and interactive filters.
@@ -116,6 +130,7 @@ It can help management:
 5. Use the dataset to reproduce or extend the analysis.
 
 📂 Repository Structure
+
 Call-Centre-Analytic-Dashboard/
 │
 ├── Dataset csv.csv
@@ -124,18 +139,22 @@ Call-Centre-Analytic-Dashboard/
 └── README.md
 
 🔍 Skills Demonstrated
-- Data Cleaning
-- Data Analysis
-- Excel
-- Pivot Tables
-- Data Visualization
-- Dashboard Development
-- KPIs Analysis
-- Business Intelligence
-- Business Performance Analysis
-- Analytical Thinking
 
-👨‍💻 Author
+* Data Cleaning
+* Data Analysis
+* Excel
+* Pivot Tables
+* Data Visualization
+* Dashboard Development
+* KPI Analysis
+* Business Intelligence
+* Business Performance Analysis
+* Analytical Thinking
+
+👨‍💻 Author and Contact
+
 Samyak Bhagat
-Information Technology Engineering Student | Aspiring Data Analyst
-GitHub: @samyakbhagat24
+Email: samyakbhagat03@gmail.com
+Linkedin
+GitHub
+
