@@ -29,7 +29,7 @@ An interactive Call Centre Analytics Dashboard built in Microsoft Excel to analy
 
 
 ---
-<h2><a class="anchor" id="Tools & Technologies"></a>tools & Tecnologies</h2>
+<h2><a class="anchor" id="Tools & Technologies"></a>Tools & Technologies</h2>
 
 - Microsoft Excel
 - Excel Pivot Tables
@@ -61,7 +61,7 @@ The dashboard provides important performance metrics such as:
 - Call Volume
 
 ---
-<h2><a class="anchor" id="intercative-analysis"></a>Interactive Analysis</h2>
+<h2><a class="anchor" id="interacative-analysis"></a>Interactive Analysis</h2>
 
 The dashboard allows users to analyze call-center performance through interactive charts and filters.
 
@@ -115,8 +115,13 @@ Created visual KPIs and charts to make performance monitoring easier for supervi
 ---
 <h2><a class="anchor" id="dashboard-preview"></a>Dashboard Preview</h2>
 
- 
+- MS Excel Dashboard shows:
+-
+-
+-
+-
 
+ ![Call Centre Analytics Dashboard](images/call%20centre%20dashboard.png)
 ---
 <h2><a class="anchor" id="business-value"></a>Business Value</h2>
 
