@@ -116,11 +116,11 @@ Created visual KPIs and charts to make performance monitoring easier for supervi
 <h2><a class="anchor" id="dashboard-preview"></a>Dashboard Preview</h2>
 
 - MS Excel Dashboard shows:
- - Total Calls
- - Customers/Agent Performance
- - Average Call Duration 
- - Customer Satisfaction
- - Agent-wise Analysis
+  - Total Calls
+  - Customers/Agent Performance
+  - Average Call Duration 
+  - Customer Satisfaction
+  - Agent-wise Analysis
 ![Call Centre Analytics Dashboard](call%20centre%20dashboard.png)
 ---
 <h2><a class="anchor" id="business-value"></a>Business Value</h2>
