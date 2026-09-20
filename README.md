@@ -121,7 +121,7 @@ Created visual KPIs and charts to make performance monitoring easier for supervi
   - Average Call Duration 
   - Customer Satisfaction
   - Agent-wise Analysis
-![Call Centre Analytics Dashboard](call%20centre%20dashboard.png)
+![Call Centre Analytics Dashboard](Image/call%20centre%20dashboard.png)
 ---
 <h2><a class="anchor" id="business-value"></a>Business Value</h2>
 
